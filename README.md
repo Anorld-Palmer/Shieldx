@@ -1,6 +1,6 @@
 # ADMIN CONTROL — Android starter project
 
-This is a starter Android app for devices you are authorised to administer. It includes:
+This is a starter Android app for devices you are authorised to administer.It includes:
 - Installed-app list (subject to Android package visibility and OEM restrictions)
 - A local VPN firewall that drops traffic for selected packages
 - Device-owner-only app hide/suspend controls
