@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ADMIN CONTROL</string>
+    <string name="admin_description">Device management policies for devices you are authorised to administer.</string>
+</resources>
